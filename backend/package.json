@@ -1,5 +1,5 @@
 {
-  "name": "chatpro",
+  "name": "LiveChat",
   "version": "1.0.0",
   "description": "A WebSocket server for chat application",
   "main": "src/index.ts",
